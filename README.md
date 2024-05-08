@@ -1,3 +1,4 @@
+<img src="https://via.placeholder.com/500x200" alt="banner that says Pandeycoder - software engineer, content creator and community organizer alongside a cartoon illustration of Pandeycoder" style="max-width: 100%;">
 
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Pandeycoder - software engineer, content creator and community organizer alongside a cartoon illustration of Pandeycoder" style="max-width: 100%;">
 
