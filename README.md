@@ -18,5 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pandeycoder&show_icons=true&locale=en&layout=compact" alt="Pandeycoder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&show_icons=true&locale=en" alt="Pandeycoder" /></p>
-<img src="https://camo.githubusercontent.com/93cc5f5afedbd1ddc600fe81dada701390ee7597b0f8b8cdd9ee76edce695b7d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/93cc5f5afedbd1ddc600fe81dada701390ee7597b0f8b8cdd9ee76edce695b7d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;">
 </section>
