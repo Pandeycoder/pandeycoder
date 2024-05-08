@@ -17,7 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pandeycoder&show_icons=true&locale=en&layout=compact" alt="Pandeycoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&show_icons=true&locale=en" alt="Pandeycoder" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&amp;show_icons=true&amp;theme=gotham" alt="Pandeycoder" style="max-width: 100%;">
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&amp;show_icons=true&amp;theme=gotham" alt="Pandeycoder" style="max-width: 100%;">
+</p>
+
 
 </section>
