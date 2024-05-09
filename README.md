@@ -23,18 +23,5 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&show_icons=true&theme=gotham" alt="Pandeycoder's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeycoder&layout=compact&theme=gotham" alt="Top Languages" />
-</div>
-
----
-
-Repository Status:
-- Public Repositories: [insert number here]
-- Private Repositories: [insert number here]
-
 
 </section>
