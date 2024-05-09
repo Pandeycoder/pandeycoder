@@ -21,10 +21,20 @@
 </p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pandeycoder&amp;theme=cobalt" alt="Pandeycoder" style="max-width: 100%;">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&amp;show_icons=true&amp;theme=gotham" alt="Pandeycoder" style="max-width: 100%;">
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pandeycoder&show_icons=true&theme=gotham" alt="Pandeycoder's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeycoder&layout=compact&theme=gotham" alt="Top Languages" />
+</div>
+
+---
 
 Repository Status:
 - Public Repositories: [insert number here]
 - Private Repositories: [insert number here]
+
 
 </section>
